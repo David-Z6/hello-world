@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+Hi David!
+안녕!
